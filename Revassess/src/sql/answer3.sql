@@ -1,1 +1,1 @@
-select * from app_user join study_set on (app_user.user_id = study_set.owner_id) having user_id = 5;
+select * from app_user join study_set on user_id = 5

@@ -1,1 +1,1 @@
-insert into app_user (role_id) values (4);
+insert into app_user (username, password, first_name, last_name, role_id ) values ('nlang', 12345, 'Nicole', 'Lang', 4);
